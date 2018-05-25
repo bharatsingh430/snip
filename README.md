@@ -1,6 +1,6 @@
 # Scale Normalization for Image Pyramids (SNIP) 
 
-[[paper]](https://www.cs.umd.edu/~bharat/crsnip.pdf)
+[[SNIP]](https://www.cs.umd.edu/~bharat/crsnip.pdf)
 
 [[SNIPER]](https://www.cs.umd.edu/~bharat/sniper.pdf)
 
